@@ -1,0 +1,1 @@
+Besides using Professor Considine's example code from lecture, I consulted the Facebook Prophet website with help on how to use this tool (https://facebook.github.io/prophet/docs/quick_start.html). 
